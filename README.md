@@ -1,0 +1,2 @@
+# TableScrapperAndPlotter
+ This is a webscrapper I developed for use in an application to a job offer, it quereies the url's html and scans for the table containing x values y values and a symbol value. It then plots the symbol values accordingly based on the X and Y value to spell out a hidden message. The URL used for the application has been removed to not reveal any information on the company this was built for
